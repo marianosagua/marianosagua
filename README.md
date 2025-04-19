@@ -44,7 +44,7 @@ Como desarrollador de software, mi objetivo es combinar mi pasión por la tecnol
 <table width="100%" style="border-collapse:separate; border-spacing: 0 18px;">
   <tr>
     <td style="padding: 18px 12px; border-radius: 12px; background: linear-gradient(90deg, #232946 0%, #3a3f5a 100%); box-shadow: none; color: #f4f4f4;" align="left" valign="middle">
-      <a href="https://github.com/usuario/CinemaSpot" style="color:#00bcd4;"><b>CinemaSpot</b></a><br/>
+      <a href="[https://github.com/usuario/CinemaSpot](https://cinemaspot.vercel.app/)" style="color:#00bcd4;"><b>CinemaSpot</b></a><br/>
       <sub style="color:#b8c1ec;">Sistema intuitivo que permite reservar funciones de cine de manera rápida y sencilla, gestionando horarios, películas y asientos en tiempo real.</sub><br/>
       <img src="https://img.shields.io/badge/Node.js-232946?style=flat&logo=node.js&logoColor=00bcd4"/>
       <img src="https://img.shields.io/badge/React-232946?style=flat&logo=react&logoColor=00bcd4"/>
@@ -53,7 +53,7 @@ Como desarrollador de software, mi objetivo es combinar mi pasión por la tecnol
   </tr>
   <tr>
     <td style="padding: 18px 12px; border-radius: 12px; background: linear-gradient(90deg, #232946 0%, #232946 100%); box-shadow: none; color: #f4f4f4;" align="left" valign="middle">
-      <a href="https://github.com/usuario/Estudialo" style="color:#00bcd4;"><b>Estudialo</b></a><br/>
+      <a href="[https://github.com/usuario/Estudialo](https://estudialoweb.com/)" style="color:#00bcd4;"><b>Estudialo</b></a><br/>
       <sub style="color:#b8c1ec;">Frontend de una app que utiliza IA para diseñar rutas de aprendizaje personalizadas y optimizadas para alcanzar tus objetivos educativos.</sub><br/>
       <img src="https://img.shields.io/badge/React-232946?style=flat&logo=react&logoColor=00bcd4"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-232946?style=flat&logo=tailwind-css&logoColor=00bcd4"/>
@@ -62,7 +62,7 @@ Como desarrollador de software, mi objetivo es combinar mi pasión por la tecnol
   </tr>
   <tr>
     <td style="padding: 18px 12px; border-radius: 12px; background: linear-gradient(90deg, #232946 0%, #3a3f5a 100%); box-shadow: none; color: #f4f4f4;" align="left" valign="middle">
-      <a href="https://github.com/usuario/Traductor-IA" style="color:#00bcd4;"><b>Traductor con IA</b></a><br/>
+      <a href="[https://github.com/usuario/Traductor-IA](https://ai-translator-nu.vercel.app/)" style="color:#00bcd4;"><b>Traductor con IA</b></a><br/>
       <sub style="color:#b8c1ec;">Traductor con IA que ofrece traducciones rápidas y precisas en múltiples idiomas, usando modelos avanzados de la API de OpenAI.</sub><br/>
       <img src="https://img.shields.io/badge/Node.js-232946?style=flat&logo=node.js&logoColor=00bcd4"/>
       <img src="https://img.shields.io/badge/OpenAI-232946?style=flat&logo=openai&logoColor=00bcd4"/>
