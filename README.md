@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-Como desarrollador web full stack, mi objetivo es combinar mi pasión por la tecnología con un enfoque innovador para crear soluciones web robustas y escalables. Busco contribuir a proyectos desafiantes que me permitan aplicar y expandir mis habilidades tanto en el front-end como en el back-end, siempre priorizando la experiencia del usuario y la eficiencia del código. Aspiro a colaborar en equipos multidisciplinarios, donde pueda aprender de otros profesionales y aportar mi capacidad para resolver problemas de manera creativa. Mi compromiso es mantenerme actualizado con las últimas tendencias y tecnologías, incluyendo el uso de inteligencia artificial y grandes modelos de lenguaje, asegurando que mi trabajo no solo cumpla con los estándares actuales, sino que también impulse la innovación en el desarrollo de software.
+Como desarrollador de software, mi objetivo es combinar mi pasión por la tecnología con un enfoque innovador para crear soluciones robustas y escalables. Busco contribuir a proyectos desafiantes que me permitan aplicar y expandir mis habilidades tanto en el front-end como en el back-end, siempre priorizando la experiencia del usuario y la eficiencia del código. Aspiro a colaborar en equipos multidisciplinarios, donde pueda aprender de otros profesionales y aportar mi capacidad para resolver problemas de manera creativa. Mi compromiso es mantenerme actualizado con las últimas tendencias y tecnologías, incluyendo el uso de inteligencia artificial y grandes modelos de lenguaje, asegurando que mi trabajo no solo cumpla con los estándares actuales, sino que también impulse la innovación en el desarrollo de software.
 
 - 📍 Buenos Aires, Argentina
 - 🎂 22 años
