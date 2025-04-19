@@ -76,9 +76,9 @@ Como desarrollador de software, mi objetivo es combinar mi pasión por la tecnol
 ## 📫 Cómo contactarme
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/usuario"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/usuario"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
-  <a href="mailto:usuario@email.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a href="[https://www.linkedin.com/in/usuario](https://www.linkedin.com/in/mariano-sagua-49785923b/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="[https://www.instagram.com/usuario](https://www.instagram.com/marianosagua/)"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+  <a href="mailto:marianosagua4343@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </p>
 
 <p align="center">
