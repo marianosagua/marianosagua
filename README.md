@@ -38,7 +38,7 @@ Testing: Jest
 - **Tech:** Node.js, Express, PostgreSQL, OpenAI API, Supabase
 - **Features:** Real-time analysis, secure authentication
 
-**📚 [Learning Path Generator](link-to-repo)**
+**📚 [Learning Path Generator](https://github.com/marianosagua/estudialo-frontend)**
 - AI-powered platform that creates personalized learning routes for any topic
 - **Tech:** TypeScript, AI APIs
 - **Features:** Dynamic content generation, user management, progress tracking
