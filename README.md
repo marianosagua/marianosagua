@@ -34,12 +34,12 @@ Supabase, Firebase
 
 ### 🏗️ Featured Projects
 
-**🚀 [AI Investment Advisor](https://github.com/marianosagua/invertilo-backend)**
+**🚀 [AI Investment Advisor](https://invertilo-frontend.vercel.app/)**
 - Full-stack application with AI integration for personalized investment recommendations
 - **Tech:** Node.js, Express, PostgreSQL, OpenAI API, Supabase
 - **Features:** Real-time analysis, secure authentication
 
-**📚 [Learning Path Generator](https://github.com/marianosagua/estudialo-frontend)**
+**📚 [Learning Path Generator](https://estudialoweb.com/)**
 - AI-powered platform that creates personalized learning routes for any topic
 - **Tech:** TypeScript, AI APIs
 - **Features:** Dynamic content generation, user management, progress tracking
@@ -65,7 +65,7 @@ Supabase, Firebase
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/mariano-sagua-49785923b/)](your-linkedin-url)
+[![LinkedIn](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/mariano-sagua-49785923b/)
 
 ---
 
