@@ -14,6 +14,7 @@ Frameworks: Express.js
 Databases: PostgreSQL, MongoDB
 Authentication: JWT
 Testing: Jest
+Supabase, Firebase
 ```
 
 **Currently Learning:**
