@@ -2,7 +2,7 @@
 
 🚀 Backend Developer | 23 | Buenos Aires, Argentina | Systems Engineering Student
 
-I'm a passionate backend developer specializing in scalable APIs and system architecture. Currently expanding my expertise into **Cloud Architecture** and **AI Integration** to build next-generation applications.
+Passionate backend developer specializing in scalable APIs and system architecture. Currently expanding my expertise into **Cloud Architecture** and **AI Integration** to build next-generation applications.
 
 ### 💻 Tech Stack
 
