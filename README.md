@@ -1,8 +1,7 @@
 # Mariano Sagua
+🚀 Backend Developer → DevOps Engineer | 23 | Buenos Aires, Argentina | Systems Engineering Student
 
-🚀 Backend Developer | 23 | Buenos Aires, Argentina | Systems Engineering Student
-
-Passionate backend developer specializing in scalable APIs and system architecture. Currently expanding my expertise into **Cloud Architecture** and **AI Integration** to build next-generation applications.
+Passionate backend developer transitioning into **DevOps & Cloud Engineering**. Specialized in scalable APIs and system architecture, now focusing on infrastructure automation, containerization, and cloud-native solutions.
 
 ### 💻 Tech Stack
 
@@ -14,59 +13,65 @@ Frameworks: Express.js
 Databases: PostgreSQL, MongoDB
 Authentication: JWT
 Testing: Jest
-Supabase, Firebase
+Cloud Services: Supabase, Firebase
 ```
 
-**Currently Learning:**
+**DevOps & Cloud (Learning & Implementing):**
 ```
-☁️ AWS Solutions Architecture
-🤖 AI/ML Integration (OpenAI APIs, LangChain)
+☁️ AWS (EC2, S3, RDS, Lambda, CloudFormation)
 🐳 Docker & Containerization
-🔧 DevOps & CI/CD
+🔧 CI/CD Pipelines (GitHub Actions)
+📊 Infrastructure as Code (Terraform - Learning)
+🔍 Monitoring & Logging
+⚡ Container Orchestration (Kubernetes - Learning)
 ```
 
 ### 🎯 What I'm Working On
 
-- 🔭 Building **AI-powered investment recommendation platform** with personalized analysis
-- 🌱 Developing **intelligent learning path generator** using machine learning APIs
-- 📚 Studying **AWS Solutions Architect** certification
+- 🔭 **Migrating legacy applications** to containerized, cloud-native architectures
+- 🌱 Building **automated CI/CD pipelines** for personal and client projects
+- 📚 Studying **AWS Solutions Architect** certification intensively
+- 🐳 **Dockerizing existing applications** and implementing best practices
 - 🎓 Pursuing **Systems Engineering** degree
 
 ### 🏗️ Featured Projects
 
 **🚀 [AI Investment Advisor](https://invertilo-frontend.vercel.app/)**
-- Full-stack application with AI integration for personalized investment recommendations
-- **Tech:** Node.js, Express, PostgreSQL, OpenAI API, Supabase
-- **Features:** Real-time analysis, secure authentication
+- Full-stack application with cloud deployment and automated CI/CD
+- **Tech:** Node.js, Express, PostgreSQL, Supabase
+- **DevOps:** Docker containers, automated deployment pipeline
+- **Features:** Real-time analysis, secure authentication, scalable architecture
 
 **📚 [Learning Path Generator](https://estudialoweb.com/)**
-- AI-powered platform that creates personalized learning routes for any topic
-- **Tech:** TypeScript, AI APIs
+- Cloud-deployed platform with infrastructure automation
+- **Tech:** TypeScript, Node.js
+- **DevOps:** Containerized deployment, monitoring setup
 - **Features:** Dynamic content generation, user management, progress tracking
 
 ### 🎖️ Certifications & Learning Path
 
-- 🎯 **Target:** AWS Solutions Architect Associate (2025)
-- 📖 **Currently:** Advanced backend patterns & cloud architecture
-- 🚀 **Next:** AI/ML integration and microservices
+- 🎯 **Target:** AWS Solutions Architect Associate
+- 📖 **Currently:** Docker mastery, AWS services deep-dive, Infrastructure as Code
+- 🚀 **Next:** Kubernetes, advanced CI/CD patterns, monitoring & observability
+- 💼 **Focus:** Cloud migration strategies and DevOps best practices
 
 ### 🌟 What Sets Me Apart
 
-- **AI Integration Expertise:** Building applications that leverage modern AI capabilities
-- **Cloud-Native Mindset:** Designing for scalability and modern deployment practices
-- **Full-System Thinking:** Understanding from database design to production deployment
-- **Continuous Learning:** Always expanding into emerging technologies
+- **Backend to DevOps Transition:** Strong foundation in application development with growing infrastructure expertise
+- **Cloud-First Mindset:** Designing and migrating applications for modern cloud environments
+- **Automation Enthusiast:** Passionate about eliminating manual processes through smart tooling
+- **Full-Stack Infrastructure:** Understanding from code to deployment to monitoring
 
 ### 💼 Professional Goals
 
-🎯 **Short-term:** Become AWS certified and land a backend developer role
-🌍 **Long-term:** Work as a Senior Backend Engineer in a big company or be an entrepreneur
-🚀 **Vision:** Build systems that impact millions of users globally
+🎯 **Short-term:** Secure AWS certification and transition into DevOps/Cloud Engineer role
+🌍 **Medium-term:** Become expert in container orchestration and infrastructure automation
+🚀 **Long-term:** Lead cloud architecture and DevOps practices in a high-growth tech company
+💡 **Vision:** Build and maintain systems that serve millions with 99.9% uptime
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/mariano-sagua-49785923b/)
 
 ---
-
-⭐ **Open to opportunities** | 🌎 **Remote-ready** | 🚀 **Always learning**
+⭐ **Open to DevOps/Cloud opportunities** | 🌎 **Remote-ready** | 🚀 **Actively transitioning to infrastructure**
