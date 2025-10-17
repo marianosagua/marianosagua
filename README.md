@@ -65,6 +65,6 @@ Buenos Aires, Argentina
 ---
 
 ## 🌐 Contacto
-- **LinkedIn**: [linkedin.com/in/tu-usuario]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/mariano-sagua-49785923b/))
+- **LinkedIn**: https://www.linkedin.com/in/mariano-sagua-49785923b/
 - **Email**: marianosagua4343@gmail.com
 - **GitHub**: https://github.com/marianosagua
