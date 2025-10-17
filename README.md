@@ -28,7 +28,7 @@ Buenos Aires, Argentina
 - ORMs: Prisma
 
 **Herramientas / Cloud / CI-CD**
-- **AWS** · Docker · Railway · Vercel · Git · GitHub
+- Docker · Railway · Vercel · Git · GitHub
 
 **IDEs y Entorno**
 - Visual Studio · VS Code
