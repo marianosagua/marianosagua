@@ -53,4 +53,3 @@ Serverless investment analysis platform for the Argentine financial market.
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marianosagua)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marianosagua4343@gmail.com)
